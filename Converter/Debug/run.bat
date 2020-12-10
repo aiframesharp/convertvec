@@ -1,0 +1,1 @@
+Converter.exe bin2txt input.bin output.txt
